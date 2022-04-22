@@ -1,0 +1,22 @@
+{
+  "name": "defi-dapps-solidity-smart-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadcs/-defi-dapps-solidity-smart-contracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asadcs/-defi-dapps-solidity-smart-contracts/issues"
+  },
+  "homepage": "https://github.com/asadcs/-defi-dapps-solidity-smart-contracts#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.3"
+  }
+}
